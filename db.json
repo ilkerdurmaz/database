@@ -1,0 +1,10 @@
+{
+  "users": [{ "id": 1, "email": "admin@admin.com", "password": "admin123" }],
+  "data": [
+    { "property-1": "value-1", "property-2": "value-2" },
+    { "property-1": "value-1", "property-2": "value-2" },
+    { "property-1": "value-1", "property-2": "value-2" },
+    { "property-1": "value-1", "property-2": "value-2" },
+    { "property-1": "value-1", "property-2": "value-2" }
+  ]
+}
