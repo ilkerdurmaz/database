@@ -3,150 +3,150 @@
   "data": [
     {
       "id": "0",
-      "property-1": "value-1",
-      "property-2": "value-2",
-      "property-3": "value-3",
-      "property-4": "value-4"
+      "name": "The Shawshank Redemption",
+      "category": "Drama",
+      "imdb": "9.3",
+      "metascore": "81"
     },
     {
       "id": "1",
-      "property-1": "value-1",
-      "property-2": "value-2",
-      "property-3": "value-3",
-      "property-4": "value-4"
+      "name": "The Godfather",
+      "category": "Crime",
+      "imdb": "9.2",
+      "metascore": "100"
     },
     {
       "id": "2",
-      "property-1": "value-1",
-      "property-2": "value-2",
-      "property-3": "value-3",
-      "property-4": "value-4"
+      "name": "The Dark Knight",
+      "category": "Action",
+      "imdb": "9.0",
+      "metascore": "94"
     },
     {
       "id": "3",
-      "property-1": "value-1",
-      "property-2": "value-2",
-      "property-3": "value-3",
-      "property-4": "value-4"
+      "name": "The Lord of the Rings: The Return of the King ",
+      "category": "value-2",
+      "imdb": "9.0",
+      "metascore": "94"
     },
     {
       "id": "4",
-      "property-1": "value-1",
-      "property-2": "value-2",
-      "property-3": "value-3",
-      "property-4": "value-4"
+      "name": "Schindler's List",
+      "category": "History",
+      "imdb": "9.0",
+      "metascore": "94"
     },
     {
       "id": "5",
-      "property-1": "value-1",
-      "property-2": "value-2",
-      "property-3": "value-3",
-      "property-4": "value-4"
+      "name": "The Godfather Part II",
+      "category": "Crime",
+      "imdb": "9.0",
+      "metascore": "90"
     },
     {
       "id": "6",
-      "property-1": "value-1",
-      "property-2": "value-2",
-      "property-3": "value-3",
-      "property-4": "value-4"
+      "name": "12 Angry Men",
+      "category": "Crime",
+      "imdb": "9.0",
+      "metascore": "96"
     },
     {
       "id": "7",
-      "property-1": "value-1",
-      "property-2": "value-2",
-      "property-3": "value-3",
-      "property-4": "value-4"
+      "name": "Pulp Fiction",
+      "category": "Crime",
+      "imdb": "8.9",
+      "metascore": "94"
     },
     {
       "id": "8",
-      "property-1": "value-1",
-      "property-2": "value-2",
-      "property-3": "value-3",
-      "property-4": "value-4"
+      "name": "Inception",
+      "category": "Sci-Fi",
+      "imdb": "8.8",
+      "metascore": "74"
     },
     {
       "id": "9",
-      "property-1": "value-1",
-      "property-2": "value-2",
-      "property-3": "value-3",
-      "property-4": "value-4"
+      "name": "The Lord of the Rings: The Two Towers",
+      "category": "Adventure",
+      "imdb": "8.8",
+      "metascore": "92"
     },
     {
       "id": "10",
-      "property-1": "value-1",
-      "property-2": "value-2",
-      "property-3": "value-3",
-      "property-4": "value-4"
+      "name": "Fight Club",
+      "category": "Drama",
+      "imdb": "8.8",
+      "metascore": "66"
     },
     {
       "id": "11",
-      "property-1": "value-1",
-      "property-2": "value-2",
-      "property-3": "value-3",
-      "property-4": "value-4"
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "category": "Adventure",
+      "imdb": "8.8",
+      "metascore": "92"
     },
     {
       "id": "12",
-      "property-1": "value-1",
-      "property-2": "value-2",
-      "property-3": "value-3",
-      "property-4": "value-4"
+      "name": "Forrest Gump",
+      "category": "Romance",
+      "imdb": "8.8",
+      "metascore": "82"
     },
     {
       "id": "13",
-      "property-1": "value-1",
-      "property-2": "value-2",
-      "property-3": "value-3",
-      "property-4": "value-4"
+      "name": "The Good, the Bad and the Ugly",
+      "category": "Adventure",
+      "imdb": "8.8",
+      "metascore": "90"
     },
     {
       "id": "14",
-      "property-1": "value-1",
-      "property-2": "value-2",
-      "property-3": "value-3",
-      "property-4": "value-4"
+      "name": "The Matrix",
+      "category": "Sci-Fi",
+      "imdb": "8.7",
+      "metascore": "73"
     },
     {
       "id": "15",
-      "property-1": "value-1",
-      "property-2": "value-2",
-      "property-3": "value-3",
-      "property-4": "value-4"
+      "name": "Goodfellas",
+      "category": "Biography",
+      "imdb": "8.7",
+      "metascore": "90"
     },
     {
       "id": "16",
-      "property-1": "value-1",
-      "property-2": "value-2",
-      "property-3": "value-3",
-      "property-4": "value-4"
+      "name": "Star Wars: Episode V - The Empire Strikes Back",
+      "category": "Sci-Fi",
+      "imdb": "8.7",
+      "metascore": "82"
     },
     {
       "id": "17",
-      "property-1": "value-1",
-      "property-2": "value-2",
-      "property-3": "value-3",
-      "property-4": "value-4"
+      "name": "One Flew Over the Cuckoo's Nest",
+      "category": "Drama",
+      "imdb": "8.7",
+      "metascore": "84"
     },
     {
       "id": "18",
-      "property-1": "value-1",
-      "property-2": "value-2",
-      "property-3": "value-3",
-      "property-4": "value-4"
+      "name": "Interstellar",
+      "category": "Sci-Fi",
+      "imdb": "8.6",
+      "metascore": "74"
     },
     {
       "id": "19",
-      "property-1": "value-1",
-      "property-2": "value-2",
-      "property-3": "value-3",
-      "property-4": "value-4"
+      "name": "City of God",
+      "category": "Crime",
+      "imdb": "8.6",
+      "metascore": "79"
     },
     {
       "id": "20",
-      "property-1": "value-1",
-      "property-2": "value-2",
-      "property-3": "value-3",
-      "property-4": "value-4"
+      "name": "Spirited Away",
+      "category": "Animation",
+      "imdb": "8.6",
+      "metascore": "96"
     }
   ]
 }
