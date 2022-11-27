@@ -1,10 +1,152 @@
 {
   "users": [{ "id": 1, "email": "admin@admin.com", "password": "admin123" }],
   "data": [
-    { "property-1": "value-1", "property-2": "value-2" },
-    { "property-1": "value-1", "property-2": "value-2" },
-    { "property-1": "value-1", "property-2": "value-2" },
-    { "property-1": "value-1", "property-2": "value-2" },
-    { "property-1": "value-1", "property-2": "value-2" }
+    {
+      "id": "0",
+      "property-1": "value-1",
+      "property-2": "value-2",
+      "property-3": "value-3",
+      "property-4": "value-4"
+    },
+    {
+      "id": "1",
+      "property-1": "value-1",
+      "property-2": "value-2",
+      "property-3": "value-3",
+      "property-4": "value-4"
+    },
+    {
+      "id": "2",
+      "property-1": "value-1",
+      "property-2": "value-2",
+      "property-3": "value-3",
+      "property-4": "value-4"
+    },
+    {
+      "id": "3",
+      "property-1": "value-1",
+      "property-2": "value-2",
+      "property-3": "value-3",
+      "property-4": "value-4"
+    },
+    {
+      "id": "4",
+      "property-1": "value-1",
+      "property-2": "value-2",
+      "property-3": "value-3",
+      "property-4": "value-4"
+    },
+    {
+      "id": "5",
+      "property-1": "value-1",
+      "property-2": "value-2",
+      "property-3": "value-3",
+      "property-4": "value-4"
+    },
+    {
+      "id": "6",
+      "property-1": "value-1",
+      "property-2": "value-2",
+      "property-3": "value-3",
+      "property-4": "value-4"
+    },
+    {
+      "id": "7",
+      "property-1": "value-1",
+      "property-2": "value-2",
+      "property-3": "value-3",
+      "property-4": "value-4"
+    },
+    {
+      "id": "8",
+      "property-1": "value-1",
+      "property-2": "value-2",
+      "property-3": "value-3",
+      "property-4": "value-4"
+    },
+    {
+      "id": "9",
+      "property-1": "value-1",
+      "property-2": "value-2",
+      "property-3": "value-3",
+      "property-4": "value-4"
+    },
+    {
+      "id": "10",
+      "property-1": "value-1",
+      "property-2": "value-2",
+      "property-3": "value-3",
+      "property-4": "value-4"
+    },
+    {
+      "id": "11",
+      "property-1": "value-1",
+      "property-2": "value-2",
+      "property-3": "value-3",
+      "property-4": "value-4"
+    },
+    {
+      "id": "12",
+      "property-1": "value-1",
+      "property-2": "value-2",
+      "property-3": "value-3",
+      "property-4": "value-4"
+    },
+    {
+      "id": "13",
+      "property-1": "value-1",
+      "property-2": "value-2",
+      "property-3": "value-3",
+      "property-4": "value-4"
+    },
+    {
+      "id": "14",
+      "property-1": "value-1",
+      "property-2": "value-2",
+      "property-3": "value-3",
+      "property-4": "value-4"
+    },
+    {
+      "id": "15",
+      "property-1": "value-1",
+      "property-2": "value-2",
+      "property-3": "value-3",
+      "property-4": "value-4"
+    },
+    {
+      "id": "16",
+      "property-1": "value-1",
+      "property-2": "value-2",
+      "property-3": "value-3",
+      "property-4": "value-4"
+    },
+    {
+      "id": "17",
+      "property-1": "value-1",
+      "property-2": "value-2",
+      "property-3": "value-3",
+      "property-4": "value-4"
+    },
+    {
+      "id": "18",
+      "property-1": "value-1",
+      "property-2": "value-2",
+      "property-3": "value-3",
+      "property-4": "value-4"
+    },
+    {
+      "id": "19",
+      "property-1": "value-1",
+      "property-2": "value-2",
+      "property-3": "value-3",
+      "property-4": "value-4"
+    },
+    {
+      "id": "20",
+      "property-1": "value-1",
+      "property-2": "value-2",
+      "property-3": "value-3",
+      "property-4": "value-4"
+    }
   ]
 }
